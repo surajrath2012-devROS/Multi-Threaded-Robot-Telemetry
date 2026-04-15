@@ -1,0 +1,6 @@
+build/
+.vscode/
+*.o
+heart_engine
+run_tests
+.cmake/
